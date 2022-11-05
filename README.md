@@ -26,12 +26,17 @@
 - Linear Algebra Hoffman and Kunze
 - Differential equations
 
-
 ### Science
 - Redo Physics
 - Redo OChem 
 - Redo Pchem
 - Essential math for quantum computing
+
+## Future Projects
+- dotChess
+- Maybe take over a public/opensource api
+- blog
+- try getting through as many problems on project euler
 <!---
 rakirs2/rakirs2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
