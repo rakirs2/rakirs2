@@ -1,7 +1,7 @@
 # Future Learning plans (List to 'pick the next things off of'):
 
 
-##Software
+## Software
 - C programming language 
 - Thinking in C
 - Thinking in C++
@@ -22,7 +22,7 @@
 - Linear Algebra Hoffman and Kunze
 - Differential equations
 
-###Science
+### Science
 - Redo Physics
 - Redo OChem 
 - Redo Pchem
