@@ -3,7 +3,6 @@
 ## Fountain Pens
 - pilot custom 823 (est ~300)
   - decide medium or fine (probably medium)
-- Sell off all other fountain pens not in rotation
 
 ## Legos
 - maybe lego hedwig?
