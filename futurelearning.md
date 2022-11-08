@@ -32,4 +32,8 @@
 - dotChess
 - Maybe take over a public/opensource api
 - blog
-- try getting through as many problems on project euler
+- 100 problems on project euler
+- 200 problems on project euler
+- 300 problems on project euler
+- Leetcode/Algoexpert
+- 
