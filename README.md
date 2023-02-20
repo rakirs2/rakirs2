@@ -1,6 +1,6 @@
 - Hi, I’m Srikar Mylavarapu
-- I’m interested in getting better at solving real problems with software
-- I’m currently learning CLR via C#, Nand2Tetris and then whatever other problems I can solve in my free time
+- I'm an ex-chemist turned software engineer
+- I’m currently learning CLR via C#, Nand2Tetris and CompSci fundamentals that I never learned
 - My repo has a lot of my math, cs, and chemistry notes and worked examples. 
 <!---
 rakirs2/rakirs2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
