@@ -1,4 +1,4 @@
-- Hi, I’m Srikar 
+Chemist turned software engineer
 
 <!---
 rakirs2/rakirs2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
